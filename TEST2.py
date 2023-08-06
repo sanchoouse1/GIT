@@ -1,5 +1,2 @@
-# Ещё одна проверка
-a = 3
-b = 4
-sum = a * b
-print(a)
+a = 1
+print("Hello, world!")
