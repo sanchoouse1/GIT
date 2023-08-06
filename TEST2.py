@@ -1,4 +1,7 @@
-a = 1
-print("Hello, world!")
-b = 5
-print(a + b)
+a = 3
+b = 4
+c = 5
+d = 6
+e = 7
+f = 8
+g = 9
